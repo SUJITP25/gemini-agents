@@ -1,0 +1,22 @@
+Start CLI for GEMINI 
+
+npm install -g @google/gemini-cli
+gemini  - To Authenticate google Account
+
+when you want to change the model for question-answer
+gemini --model (modelname)  --yolo 
+(yolo will give whole permissions and don't even tell you at all)
+
+
+! - to open shell command 
+
+ACP - Agent Client Protocol 
+MCP - Model Context Protocol 
+
+
+1.System Instructions 
+2.Tools (Default)
+3.~Gemini.md 
+
+Make GEMINI.md file to give agent a prompt. 
+Make one folder .gemini and make settings.json file in it.
