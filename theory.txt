@@ -20,3 +20,8 @@ MCP - Model Context Protocol
 
 Make GEMINI.md file to give agent a prompt. 
 Make one folder .gemini and make settings.json file in it.
+
+
+How to Start MCP Server in Gemini? 
+ 
+

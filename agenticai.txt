@@ -1,0 +1,5 @@
+LLM Response have 2 cycles. 
+(1) Prompting - When user ask questions. 
+(2) Completion - Output that LLM Provides. 
+
+Calling LLM through a Web Interface or Making a API Call. 
